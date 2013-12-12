@@ -1,0 +1,15 @@
+{
+    "fields": [
+        {
+            "id": "name",
+            "text": "Name",
+            "required": true
+        },
+        {
+            "id": "date",
+            "text": "Date",
+            "type": "date",
+            "default": null
+        }
+    ]
+}

@@ -1,0 +1,3 @@
+git+https://github.com/meltmedia/doozer.git@develop
+flake8==2.1.0
+nose==1.3.0
